@@ -47,7 +47,7 @@ $sub-color: grey;
     transition: 300ms ease all;
   }
 
-  &.shrink {
+  .shrink {
     @include shrinkLabel();
   }
 }
